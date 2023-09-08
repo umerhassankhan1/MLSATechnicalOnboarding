@@ -33,25 +33,25 @@ const projectList = [
   {
     title: "Databricks DE Project",
     description:
-      "",
+      "This is a complete end to end Pipeline in databricks for Formula 1 Dataset",
     url: "https://github.com/umerhassankhan1/Databricks-DE-project.git",
   },
   {
     title: "DE Youtube Analysis Project",
     description:
-      "",
+      "This is a data engineering project for youtube data analysis",
     url: "https://github.com/umerhassankhan1/DE-youtube-analysis-project.git",
   },
   {
     title: "DE ETL Pipeline PostegreSQL Project",
     description:
-      "",
+      "This is a basic project for ETL pipeline using python and postgreSQL",
     url: "https://github.com/umerhassankhan1/DE-project-etl-python-postgreSql.git",
   },
   {
     title: "Bytewise Fellowship in Data Engineering",
     description:
-      "",
+      "This is a repository for all the projects and assignments of bytewise fellowship in data engineering",
     url: "https://github.com/umerhassankhan1/bytewise_fellowship_DE.git",
   },
 ];
